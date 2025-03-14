@@ -1,6 +1,6 @@
 # mist4610project1
-group 8
-crn61608 
+## group 8
+## crn61608 
 
 
 # Team Members:
@@ -23,35 +23,35 @@ The album table captures details about albums, including the title, release date
 To track collaborations, the artist_has_song table establishes a many-to-many relationship between artists and songs, allowing for multiple artists on a single track. Similarly, playlists are managed through the playlist table, which includes details like title, save count, and creation date. The playlist_has_song table connects songs to playlists, enabling users to add multiple tracks to a playlist. Additionally, the playlist_has_artist table associates playlists with artists, making it possible to create artist-centric playlists. Overall, this schema efficiently structures relationships between artists, albums, songs, and playlists, facilitating seamless querying and management of music data in a SQL-based streaming platform.
 
 
-## ERM Diagram:
+# ERM Diagram:
 ![Image 3-13-25 at 2 43 PM](https://github.com/user-attachments/assets/c6f304c5-1533-473a-b55e-c73fd149ae54)
 
-## Data Dictionaries
+# Data Dictionaries
 
-# Data Dictionary: Album
+## Data Dictionary: Album
 ![Image 3-13-25 at 2 45 PM](https://github.com/user-attachments/assets/3987cdef-b566-4d22-a196-764e12408701)
 
-# Data Dictionary: Song
+## Data Dictionary: Song
 ![Image 3-13-25 at 2 46 PM](https://github.com/user-attachments/assets/6e400a94-36d5-4dc5-ab2f-75e9baa31752)
 
-# Data Dictionary: Playlist
+## Data Dictionary: Playlist
 ![Image 3-13-25 at 2 47 PM](https://github.com/user-attachments/assets/a3eb7f67-8abf-484d-93ef-892da39a4dd9)
 
-# Data Dictionary: Discography
+## Data Dictionary: Discography
 ![Image 3-13-25 at 2 47 PM (1)](https://github.com/user-attachments/assets/b55f7923-02ef-4b19-8442-60b55d6ecd1c)
 
 # Data Dictionary: artist has song
 ![Image 3-13-25 at 2 48 PM](https://github.com/user-attachments/assets/bf6247a1-221a-4cac-acc2-3e6912c29393)
 
-# Data Dictionary: playlist has song
+## Data Dictionary: playlist has song
 ![Image 3-13-25 at 2 48 PM (1)](https://github.com/user-attachments/assets/0e82496f-d1a2-46a0-9319-f9c61ac4edc2)
 
-# Data Dictonary: playlist has artist
+## Data Dictonary: playlist has artist
 ![Image 3-13-25 at 2 53 PM](https://github.com/user-attachments/assets/def45731-e768-45f4-a095-c3f93561b47c)
 
-## Queries:
+# Queries:
 
-# Complex Queries
+## Complex Queries
 
 1. Find the top three songs in the pop genre
 ![image](https://github.com/user-attachments/assets/2c6b8e7b-225b-424f-8eda-49498e6bcede)
@@ -84,7 +84,7 @@ This is important to managers because so many songs have been released throughou
  This is important for managers to know in order to benchmark yearly releases and streams to be able see how many albums have been released in descending order by year, allowing us to get a full understanding of how many songs and albums and pacing of album releases various artists have had compared to other artists.
  
 
-# Simple Queries
+## Simple Queries
 
 1. List top artist in each genre 
 ![image](https://github.com/user-attachments/assets/37f6cd7d-bfe1-4d3a-9e08-813feb2f75d7)
@@ -107,9 +107,7 @@ With this query, we gain insights into the popularity of a specific artist or so
 This is important to managers because we can see (by genre specifically) that suits the most number of people’s music taste. This helps with choosing top songs of any given genre, as well as makes it easier to curate genre-based playlists and Spotify Wrapped profiles to users who tend to stick to one genre/heavily prefer one genre over others.
 
 
-## Database information:
-# Name of the database: ha_group8
+# Database information:
+## Name of the database: ha_group8
 ![image](https://github.com/user-attachments/assets/6e7a009f-f37b-40ea-ab0f-986ef928b749)
-
-]
 
