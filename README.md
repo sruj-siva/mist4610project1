@@ -6,7 +6,7 @@
 # Team Members:
 1. Peng, Kimberly @[KimmyPenguin](https://github.com/KimmyPenguin)
 2. Sivakumar, Srujana @[sruj-siva](https://github.com/sruj-siva)
-4. Asgari, Neema @[Nemmajoon](https://github.com/Nemmajoon)
+4. Asgari, Neema @[Neemajoon](https://github.com/Neemajoon)
 5. Modi, Maleeka @[m-modi](https://github.com/m-modi)
 6. Palacherla, Asha @[ashapalacherla](https://github.com/ashapalacherla)
 
