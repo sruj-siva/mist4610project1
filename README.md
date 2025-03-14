@@ -1,6 +1,6 @@
 # mist4610project1
-# group 8
-# crn61608 
+group 8
+crn61608 
 
 
 # Team Members:
